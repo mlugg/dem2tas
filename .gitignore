@@ -1,0 +1,4 @@
+zig-out/
+zig-cache/
+demo.dem
+tas.p2tas
